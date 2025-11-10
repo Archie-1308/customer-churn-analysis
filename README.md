@@ -32,4 +32,4 @@ Telco Customer Churn dataset (Kaggle) — includes customer demographics, accoun
 Open the notebook `Customer_Churn_Analysis_Archana.ipynb` in Google Colab. Outputs are in `/outputs`.
 
 ## Contact
-Archana Pandey — [LinkedIn profile link]
+Archana Pandey — [[LinkedIn profile link](https://www.linkedin.com/in/archana-pand/)]
