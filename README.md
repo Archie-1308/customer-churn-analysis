@@ -1,35 +1,41 @@
-# Customer Churn Analysis — Archana Pandey
+HELLO EVERYONE. 
 
-## Project summary
-Analyze telco customer data to discover why customers churn and provide actionable recommendations to reduce churn.
+# 📉 Customer Churn Analysis using Python  
 
-## Dataset
-Telco Customer Churn dataset (Kaggle) — includes customer demographics, account information, services, and churn flag.
+## 🧠 Overview
+This project analyzes telecom customer data to find patterns behind churn (customers leaving) and predicts which customers are likely to leave.
 
-## Tools
-- Python (Pandas, NumPy)
-- Seaborn, Matplotlib
-- scikit-learn (Logistic Regression)
+## 🧰 Tools & Libraries
+- Python (Pandas, NumPy, Scikit-learn)
+- Matplotlib, Seaborn
 - Google Colab
 
-## What I did
-1. Data cleaning and preprocessing  
-2. Exploratory data analysis (EDA) — churn by contract, charges, tenure  
-3. Baseline churn classification model (logistic regression)  
-4. Visualizations and business recommendations
+## 📂 Dataset
+Dataset: [Telco Customer Churn – Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
-## Key findings
+## 🔍 Steps Performed
+1. Data Cleaning & Preparation  
+2. Exploratory Data Analysis (EDA)  
+3. Feature Encoding  
+4. Model Training (Logistic Regression)  
+5. Insights & Recommendations  
+
+## 📈 Key Insights
 - Month-to-month contracts have the highest churn rate.  
-- Higher monthly charges are associated with higher churn.  
-- Longer tenure correlates with lower churn.
+- Customers with higher monthly charges are more likely to leave.  
+- Loyalty and auto-payment options reduce churn.
 
-## Recommendations
-- Offer discounts or loyalty benefits for month-to-month customers.  
-- Introduce targeted retention campaigns for high monthly-charge customers.  
-- Incentivize switching to longer-term contracts.
+## 🤖 Model Performance
+- ROC-AUC: ~0.8  
+- Good recall for churned customers.
 
-## How to run
-Open the notebook `Customer_Churn_Analysis_Archana.ipynb` in Google Colab. Outputs are in `/outputs`.
+## 💡 Future Work
+- Try advanced models (Random Forest, XGBoost)  
+- Build a dashboard in Power BI  
 
+## 👩‍💻 Author
+**Archana Pandey** – AI & Data Science Engineering Student  
 ## Contact
 Archana Pandey — [[LinkedIn profile link](https://www.linkedin.com/in/archana-pand/)]
+
+
